@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>상모고 1부 학교스포츠클럽 리그</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <!-- 여기에 리다이렉트 코드 없이 오직 iframe만 있어야 합니다 -->
+  <iframe src="https://script.google.com/macros/s/AKfycby_K0Gk-UXlbUyBk9ma8R6M3_-119zjQX2_a4oEcUKANtgJ2mfQ82DGblJHcjCiGKrEQA/exec" allowfullscreen></iframe>
+</body>
+</html>
